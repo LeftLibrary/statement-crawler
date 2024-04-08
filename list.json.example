@@ -3,8 +3,10 @@
         "name" : "",
         "id" : "",
         "page" : "",
+        "block" : "",
         "link" : "",
-        "statement" : "",
+        "title" : "",
+        "article" : "",
         "last" : ""
     }
 ]
